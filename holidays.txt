@@ -1,0 +1,34 @@
+[ALL] New Year’s Day,2020-1-1
+[JP] Coming of Age,2020-1-13
+[JP] National Foundation Day,2020-2-11
+[JP] Emperors Birthday (Observed),2020-2-24
+[JP] Spring Equinox,2020-3-20
+[UK/IRE/CAN] Good Friday,2020-4-10
+[UK/IRE] Easter Monday,2020-4-13
+[JP] Showa Day,2020-4-29
+[JP] Greenery Day / [IRE] May Day,2020-5-4
+[JP] Childrens Day,2020-5-5
+[JP] Constitution Day (Observed),2020-5-6
+[UK] May Day,2020-5-7
+[UK] Spring Bank Holiday / [US] Memorial Day,2020-5-25
+[IRE] Spring Bank Holiday,2020-6-1
+[CAN] Canada Day,2020-7-1
+[US] Independency Day (Observed),2020-7-3
+[JP] Marine Day,2020-7-23
+[JP] Health & Sports Day,2020-7-24
+[CAN] First Monday in August / [IRE] Summer Bank Holiday,2020-8-3
+[JP] Mountain Day,2020-8-10
+[UK] August Bank Holiday,2020-8-31
+[US/CAN] Labor Day,2020-9-7
+[JP] Respect for the Aged Day,2020-9-21
+[JP] Autumn Equinox,2020-9-22
+[US] Indigenous Peoples Day / [CAN] Thanksgiving,2020-10-12
+[IRE] October Bank Holiday,2020-10-26
+[JP] Culture Day,2020-11-3
+[JP] Labor Thanksgiving Day,2020-11-23
+[US] Thanksgiving,2020-11-26
+[US] Day After Thanksgiving,2020-11-27
+[CAN/IRE/UK/US] Christmas Eve,2020-12-24
+[CAN/IRE/UK/US] Christmas Day,2020-12-25
+[CAN/UK] Boxing Day / [IRE] St. Stephens Day,2020-12-26
+[ALL] New Years Eve,2020-12-31
